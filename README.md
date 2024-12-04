@@ -49,7 +49,10 @@ Users can change the password by verifying the current password and setting a ne
 
 ### **5. Password Validation**
 The system ensures that the entered password matches the stored one. If incorrect, the user is allowed multiple attempts, with the buzzer sounding on each failed entry.
-
+## Simulation Screenshots
+![image][]
+![image][]
+![image][]
 ## **Usage Instructions**
 
 ### **1. Initial Setup**
