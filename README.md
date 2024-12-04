@@ -50,9 +50,15 @@ Users can change the password by verifying the current password and setting a ne
 ### **5. Password Validation**
 The system ensures that the entered password matches the stored one. If incorrect, the user is allowed multiple attempts, with the buzzer sounding on each failed entry.
 ## Simulation Screenshots
-![image][https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/Sytem%201.png]
-![image][https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/System%204.png]
-![image][https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/System%203.png]
+![System 1](https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/Sytem%201.png?raw=true)  
+*Figure 1: Enter the Password *
+
+![System 4](https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/System%204.png?raw=true)  
+*Figure 2: password is correct*
+
+![System 3](https://github.com/hassanowis/Smart-Door-Locking-Security-System/blob/main/imgs/System%203.png?raw=true)  
+*Figure 3: password is wrong*
+
 ## **Usage Instructions**
 
 ### **1. Initial Setup**
